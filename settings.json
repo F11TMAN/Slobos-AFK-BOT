@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " SeriesSMPJBL.aternos.me:50468
-",
+    "ip": " SeriesSMPJBL.aternos.me:50468",
     "port": 50468,
     "version": "1.21.1"
   },
